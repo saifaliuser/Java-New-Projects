@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/IdeaProjects/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator1.iml" filepath="$PROJECT_DIR$/Calculator/Calculator1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guess the number/Guess the number.iml" filepath="$PROJECT_DIR$/Guess the number/Guess the number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javafx/Javafx.iml" filepath="$PROJECT_DIR$/Javafx/Javafx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavafxProject/JavafxProject.iml" filepath="$PROJECT_DIR$/JavafxProject/JavafxProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MY JAVA PROJECTS.iml" filepath="$PROJECT_DIR$/.idea/MY JAVA PROJECTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pharmacy/Pharmacy.iml" filepath="$PROJECT_DIR$/Pharmacy/Pharmacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Tutorial/Tutorial.iml" filepath="$PROJECT_DIR$/IdeaProjects/Tutorial/Tutorial.iml" />
+    </modules>
+  </component>
+</project>
